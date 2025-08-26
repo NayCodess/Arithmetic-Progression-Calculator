@@ -14,9 +14,7 @@ This project is beginner-friendly and demonstrates the use of basic Python conce
 - Print the first **n terms of the AP series**
 
 ## ▶️ Usage
-1. Run the program:
-   ```bash
-   python ap_calculator.py
+
 Enter:
 First term (A1)
 Second term (A2)
